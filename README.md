@@ -1,2 +1,2 @@
 # E2E-AD-Survey
-Our paper "Development of End-to-end Autonomous Driving: A Survey"  🚗🚗🚗
+Our paper "End-to-End Autonomous Driving: From Direct Policy Learning to Cognition-Enhanced Systems"  🚗🚗🚗
