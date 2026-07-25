@@ -32,8 +32,6 @@ Our paper "End-to-End Autonomous Driving: From Direct Policy Learning to Cogniti
 | 2025 | **StyleDrive** | Camera / Video / Action-state | 30K scenarios | Driving-style supervision; personalized planning | [![Scholar][scholar-badge]](https://scholar.google.com/scholar?q=StyleDrive+autonomous+driving+dataset+benchmark) | [![GitHub][github-badge]](https://github.com/AIR-THU/StyleDrive) |
 | 2025 | **WOD-E2E** | Camera / Ego-state / Map-BEV | 4,021 clips | Long-tail events; open-loop planning evaluation | [![Scholar][scholar-badge]](https://scholar.google.com/scholar?q=WOD-E2E+autonomous+driving+dataset+benchmark) | [![Website][website-badge]](https://waymo.com/open/data/e2e/) |
 
-## 📚 Papers by Architectural Paradigm
-<img width="6688" height="3764" alt="structure_01" src="https://github.com/user-attachments/assets/0bf469e5-d7fc-487a-b73c-81681b8b9948" />
 
 ### 🚘 Classical End-to-end Autonomous Driving
 
